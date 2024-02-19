@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "buzzfeed",
+          "name": "Buzzfeed"
+        },
+        "author": "Shamra Shaheen",
+        "title": "10 Facts About Your Favorite Snack Foods",
+        "description": "You're telling me ice cream is how old...",
+        "url": "https://www.buzzfeed.com/shamra-shaheen/10-history-snack-food-facts",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-09/26/16/enhanced/7ac14fd901ff/original-4732-1695745019-4.jpg?crop=3205:1683;0,0%26downsize=1250:*",
+        "publishedAt": "2023-10-01T00:52:14.2339018Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-huffington-post",
+          "name": "The Huffington Post"
+        },
+        "author": "AP",
+        "title": "Jury Acquits Man Who Shot YouTube ‘Prankster’ At Mall Food Court",
+        "description": "Footage of the incident shows Tanner Cook harassing Alan Colie for his YouTube channel, which features other “pranks” like pretending to vomit on Uber drivers.",
+        "url": "https://www.huffpost.com/entry/youtube-prankster-shot-tanner-cook_n_65172885e4b0a69113b4c9ce",
+        "urlToImage": "https://img.huffingtonpost.com/asset/65172e252500003600af313e.jpeg?cache=RRGHFU2IVH&ops=1200_630",
+        "publishedAt": "2023-09-29T20:14:40Z",
+        "content": "LEESBURG, Va. (AP) A jury on Thursday found a delivery driver not guilty in the shooting of a YouTube prankster who followed him around a mall food court earlier this year.\r\nAlan Colie, 31, was acqui… [+3853 chars]"
+      },
+      {
+        "source": {
+          "id": "the-next-web",
+          "name": "The Next Web"
+        },
+        "author": "Siôn Geschwindt",
+        "title": "Mobility giant Bolt adopts self-driving Starship robots for food delivery",
+        "description": "Bolt plans to roll out thousands of the robots across multiple countries, starting in its home city of Tallinn later this year.",
+        "url": "http://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2Fbolt-starship-robot-delivery.jpg&signature=c902ce701ce95e20f6fd703a50ad52ca",
+        "publishedAt": "2023-06-22T09:17:15Z",
+        "content": "European ride-hailing firm Bolt will start using self-driving robots to deliver customers food as part of a new partnership with fellow Estonian company Starship Technologies, announced yesterday.  \r… [+2447 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Dipak K Dash",
+        "title": "Government to provide 5 kg free food grains to poor for May & June",
+        "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+        "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2021-04-23T04:23:00Z",
+        "content": null
+      }
+    ]
+  }
